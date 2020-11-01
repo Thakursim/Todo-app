@@ -1,0 +1,12 @@
+<html>
+  <body>
+      <a href="/add">Add New Task</a>
+	 <h1>TODO List</h1>
+     {% for x in list3 %}
+	   <p>{{x.task}}
+	   <a href="/edit/{{x.id}}">Edit</a>
+	   <a href="/delete/{{x.id}}">DELETE</a>
+	   </p>
+	 {% endfor %}  
+  </body>
+</html>
