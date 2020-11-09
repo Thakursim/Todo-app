@@ -1,5 +1,4 @@
 # To-Do Application
-====================================
 
 
 User can create, read, update and delete a task using this application. 
@@ -11,7 +10,6 @@ Clone this repository using this command:-
    `git clone https://github.com/Thakursim/Todo-app`
 
 # Getting up and running.
---------------------------------
 
 This steps below will get you up and running with a local development environment. We assume you have the following installed:
 
